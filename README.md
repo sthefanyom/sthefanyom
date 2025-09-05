@@ -19,33 +19,13 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
 ### **B1 PinkBank**
 Conta bancária digital com **TypeScript** e **POO**.  
 Funcionalidades: criação de conta, depósitos, saques e gerenciamento de saldo.  
 🔗 [Ver Repositório](https://github.com/sthefanyom/B1-PinkBank-Generation)
 
-![B1 PinkBank GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- você pode substituir por GIF real do projeto -->
-
----
-
-### **Calculadora React**
-Calculadora funcional construída com **React** e **Hooks**.  
-Focada em boas práticas de UI e lógica de cálculo.  
-🔗 [Ver Repositório](https://github.com/sthefanyom/Calculadora-React)
-
-![Calculadora React GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
----
-
-### **Minha Primeira API**
-API simples com **Node.js** e **Express** para aprendizado de rotas e manipulação de dados.  
-🔗 [Ver Repositório](https://github.com/sthefanyom/Minha-Primeira-API)
-
-![API GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
-
----
 
 ## 📈 GitHub Stats
 
